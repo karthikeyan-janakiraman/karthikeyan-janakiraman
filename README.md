@@ -2,7 +2,7 @@
 - 👀 I’m interested in building apps for kids
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me janakiraman.karthikeyan@gmail.co,
+- 📫 How to reach me janakiraman.karthikeyan@gmail.com,
 
 <!---
 karthikeyan-janakiraman/karthikeyan-janakiraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
