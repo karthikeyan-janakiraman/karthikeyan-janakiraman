@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthikeyan-janakiraman
-- 👀 I’m interested in building apps for kids
+- 👀 I’m interested in building apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me janakiraman.karthikeyan@gmail.com,
